@@ -1,0 +1,6 @@
+let Piscina = 8 
+console.log(`Na piscina tem ${Piscina} Pessoas`);
+
+let laraja =1, maca=3, melao=7;
+
+console.log(`Laranja tem ${laraja} maca tem${maca} melao tem ${melao}`);
