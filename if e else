@@ -1,0 +1,12 @@
+let investimento = 1000;
+let dono = "pedro";
+
+if (investimento >= 10000 && dono == "kethelin") {
+    console.log(`${dono} Esse não é o seu investimento`);
+} else if (investimento >= 1000 && dono == "kethelin") {
+    console.log(`${dono} está errado, mas tem o mínimo para investir`);
+} else if ( investimento == 1000 && dono == "pedro") {
+    console.log("Reconhecemos titular dos inventimentos");
+}  else {
+    console.log ( "Não indentificamos seu investiemnto")
+}
