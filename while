@@ -1,0 +1,7 @@
+let Barra = 0
+
+while( Barra <= 30 ) {
+  console.log (`Tem ${Barra} Barras`);
+
+Barra = Barra +1; 
+} 
