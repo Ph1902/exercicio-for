@@ -1,0 +1,19 @@
+let b = 70; // Variável global
+
+if (b === 70) {
+  let b = 90; // Nova variável b dentro do escopo do if
+  console.log(`b dentro do if é ${b}`); // Imprime o valor de b dentro do if
+}
+
+console.log(`b fora do if (escopo global) é ${b}`); 
+
+
+let soma = (a, c, p, w, k,) => {
+  return a * c * p + w % k;
+};
+
+console.log(soma(10, 90, 6, 800, 2));
+
+const vezesDois = X => X *2 
+  console.log(vezesDois(7))
+  
