@@ -1,0 +1,11 @@
+function maxCaracteres (text) {
+  if (text.length > 10) {
+    console.log("O texto é muito grande")
+  } else {
+    console.log("O texto está dentro do limite")
+  }
+}
+
+console.log(maxCaracteres("PEDRO"))
+
+console.log(maxCaracteres("PEDRO HENRIQUE DOS SANTOS"))
