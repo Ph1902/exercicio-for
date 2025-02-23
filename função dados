@@ -1,0 +1,23 @@
+let Nome = "string"
+let Num = 27
+let bool = true
+
+function Dados (Tipo) {
+  if (Tipo === Nome) {
+    console.log(" O tipo é String")
+  } if (Tipo === Num) {
+    console.log(" O tipo é numero")
+  } if (Tipo === bool ) {
+    console.log(" O tipo é Boleanos ")
+  }
+}
+
+Dados(Nome)
+Dados(Num)
+Dados(bool)
+Dados(Nome)
+Dados(Num)
+Dados(bool)
+Dados(Nome)
+Dados(Num)
+Dados(bool)
