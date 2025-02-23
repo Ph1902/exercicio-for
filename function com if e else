@@ -1,0 +1,26 @@
+let idadePai = 50;
+let idadeMae = 45;
+let idadeIrmao = 22;
+let idadeVo = 70;
+let idadeNamorada = 20;
+let minhaIdade = 18;
+
+function suaIdade(nome, idade, genero) {
+  if (genero === "feminino") {
+    console.log(`Sua ${nome} tem ${idade} anos.`);
+  } else {
+    console.log(`Seu ${nome} tem ${idade} anos.`);
+  }
+if (nome === "Eu") {
+  console.log(`Eu tenho ${minhaIdade} anos`)
+} else {
+  
+}
+}
+
+suaIdade("Pai", idadePai, "masculino");
+suaIdade("Mãe", idadeMae, "feminino");
+suaIdade("Irmão", idadeIrmao, "masculino");
+suaIdade("Vó", idadeVo, "feminino");
+suaIdade("Namorada", idadeNamorada, "feminino");
+suaIdade("Eu", minhaIdade, "masculino"); // Você pode mudar para "feminino" se for o caso
