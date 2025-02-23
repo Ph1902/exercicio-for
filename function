@@ -1,0 +1,11 @@
+let Teste = function (mensagem) {
+  console.log(mensagem);
+};
+
+Teste("HELLO WORD"); // Primeiro imprime "HELLO WORD"
+
+let CONFIRMA = "OK";
+
+Teste(CONFIRMA); // Depois imprime "OK"
+
+Teste("Denovo")
