@@ -1,0 +1,5 @@
+function somaDeDois ( X, H) {
+  return X + H
+};
+
+console.log(somaDeDois(67, 90));
