@@ -1,0 +1,9 @@
+function multiplicaçãoDeNum(y,z,x) {
+    return y * z * x;
+}
+
+console.log(multiplicaçãoDeNum(23,8,17))
+
+const mult = multiplicaçãoDeNum (9,15,34);
+console.log(`o valor da multiplicação é ${mult}`)
+
