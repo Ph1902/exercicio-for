@@ -1,13 +1,8 @@
-for (let P = 15; P<= 150; P = P * 2 ) {
-    console.log(`A multiplicacao de P em 2x ate 150 è ${P}`)
-}
-// Vamos criar um programa que verifica se um número é par ou ímpar
-// para os números de 1 a 10 e imprime o resultado no console.
+Este é o meu primeiro repositorio e contém uma série de exercícios práticos em JavaScript que aprendi e coloqueei em pratica exemplos própios, abordando conceitos essenciais da linguagem, como:
 
-for (let i = 1; i <= 10; i++) {
-    if (i % 2 === 0) {
-        console.log(i + " é um número par.");
-    } else {
-        console.log(i + " é um número ímpar.");
-    }
-}
+Let: Exploração da declaração de variáveis com escopo de bloco.
+For: Uso de loops for para iteração e manipulação de dados.
+If-Else: Implementação de estruturas condicionais para controle de fluxo.
+Arrow Functions: Criação de funções de forma concisa utilizando a sintaxe de arrow function.
+Array Functions: Manipulação de arrays utilizando métodos como map, filter, reduce, entre outros.
+Os exercícios foram projetados para fortalecer o entendimento desses conceitos e melhorar a prática do desenvolvimento em JavaScript.
