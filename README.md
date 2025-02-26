@@ -1,4 +1,4 @@
-Este é o meu primeiro repositorio e contém uma série de exercícios práticos em JavaScript que aprendi e coloqueei em pratica exemplos própios, abordando conceitos essenciais da linguagem, como:
+Este é o meu primeiro repositorio e contém uma série de exercícios práticos em JavaScript que aprendi e coloquei em pratica os exemplos própios, abordando conceitos essenciais da linguagem, como:
 
 Let: Exploração da declaração de variáveis com escopo de bloco.
 For: Uso de loops for para iteração e manipulação de dados.
