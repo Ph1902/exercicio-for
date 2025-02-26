@@ -1,0 +1,5 @@
+
+for(BTC = 0; BTC<=200; BTC +=1) {
+    console.log(`Eu tenho ${BTC}  BTC`);
+    
+};
