@@ -1,0 +1,6 @@
+let Tenis = [1, 5, 9, 19, 21, 23];
+
+for (let i = 0; i < Tenis.length; i+=1) {
+    console.log(`O tênis ${Tenis[i]} está na promoção`);
+}
+
